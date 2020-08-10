@@ -1,0 +1,14 @@
+This is a demo application built using GraphQL
+
+Technologies used: React, Apollo server for GraphQL
+
+Tutorial: https://www.youtube.com/watch?v=SEMTj8w04Z8
+
+
+How to start the app?
+---------------------
+Start node server: npm start
+Launch GraphQL Editor: http://locahost:5000/graphql
+
+Git pepo:
+---------
